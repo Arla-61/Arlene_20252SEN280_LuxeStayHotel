@@ -36,16 +36,16 @@ It will also include smart cancellation of reservation and refund management, au
 These are the tables going to be used to create our system:
 
 
-1	GUESTS :	Store guest information
-2	ROOMS :	Stores room details
-3	ROOM_TYPES :	Stores room categories and prices
-4	RESERVATIONS :	Store booking records
-5	CANCELLATIONS :	Store cancellation information
-6	CHECK_INS :	Store guest arrival records
-7	CHECK_OUTS :	Store departure records
-8	SERVICES :	Store additional hotel services
-9	SERVICE_USAGE :	Track services used by guests
-10	BILLS :	Store guest bills
-11	PAYMENTS :	Store payment records
-12	REFUNDS :	Store refund transactions
-13	AUDIT_LOG :	Track important database changes
+1.	GUESTS :	Store guest information
+2.	ROOMS :	Stores room details
+3.	ROOM_TYPES :	Stores room categories and prices
+4.	RESERVATIONS :	Store booking records
+5.	CANCELLATIONS :	Store cancellation information
+6.	CHECK_INS :	Store guest arrival records
+7.	CHECK_OUTS :	Store departure records
+8.	SERVICES :	Store additional hotel services
+9.	SERVICE_USAGE :	Track services used by guests
+10.	BILLS :	Store guest bills
+11.	PAYMENTS :	Store payment records
+12.	REFUNDS :	Store refund transactions
+13.	AUDIT_LOG :	Track important database changes
