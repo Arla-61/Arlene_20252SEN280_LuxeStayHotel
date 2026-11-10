@@ -49,3 +49,18 @@ These are the tables going to be used to create our system:
 11.	PAYMENTS :	Store payment records
 12.	REFUNDS :	Store refund transactions
 13.	AUDIT_LOG :	Track important database changes
+
+
+
+## Data source link
+ This include all the dataset information going to be used in our project
+ this is the link:
+
+ https://www.kaggle.com/code/jillanisofttech/data-anaylsis-hotel-booking-project/input
+
+
+ ## My innovation
+
+ VIP Guest recognition and loyalty Rewards where by the system automatically recognizes the returning guests and and calculate their points and be rewarded
+
+ 
